@@ -10,7 +10,7 @@ const Tracker = () => {
 
             </div>
             <div classname= "col-lg-8">
-                <h2> Display Budget Info</h2>
+                <h2> Display Money Info</h2>
             </div>
 
         </div>
